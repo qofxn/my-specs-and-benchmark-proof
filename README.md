@@ -22,7 +22,7 @@ PC SPECS:
 
 ------------------------------------
 
-# My Current FPS in Games (SCREENSHOTS AND PROOF ABOVE, MORE COMING SOON)
+# My Current FPS in Games
 
 *(i lock most my games fps at 160 to keep gpu utilization down and improve 1% lows. i also only have a 144hz monitor so staying constiently over 150 is my main goal of most my optimizations)*
 
