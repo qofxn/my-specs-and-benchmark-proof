@@ -38,4 +38,4 @@ PC SPECS:
 
 - RTSS for locking fps: https://www.guru3d.com/download/rtss-rivatuner-statistics-server-download/
 
--fr33thy video on capping fps with RTSS: https://www.youtube.com/watch?v=0QMn_9UpUBo
+- fr33thy video on capping fps with RTSS: https://www.youtube.com/watch?v=0QMn_9UpUBo
