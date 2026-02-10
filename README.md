@@ -4,16 +4,15 @@ PC SPECS:
 
 - OS: WIN11 KERNELOS *(switched to as of January 2026)*
 
-- CPU: AMD Ryzen 5600x w/PBO ON AUTO *(messing with pbo settings always makes my pc unsatable and temps overheat like crazy so i keep it at auto and dont seem to have any issues)*
+- CPU: AMD Ryzen 5600x w/PBO -30 all cores, 5x scalar, -350 boost (max 4.35ghz)
 
-- RAM: 32GB TTG DDR4 3200mhz
+- RAM: 32GB TTG DDR4 3200mhz OC'd to 3600mhz
 
 - GPU: ASUS TUF GTX 1660 SUPER OC
 
 - STORAGE: KINSGSTON 500GB NVME + 2TB HDD
 
 - Monitor: MSI 144hz IPS
-
 
 - MOUSE: VGN Dragonfly F1
 
