@@ -20,6 +20,8 @@ PC SPECS:
 
 - CONTROLLER: Gamesir G7 PRO
 
+<img width="1920" height="1080" alt="q6No1qwYmf" src="https://github.com/user-attachments/assets/4d752109-8633-4885-a29f-96d22d5f9442" />
+
 ------------------------------------
 
 # My Current FPS in Games
