@@ -1,7 +1,36 @@
 <a href='https://ko-fi.com/F1F61V3VOV' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 
 
-# my-specs-and-benchmark-proof
+
+✩░▒▓▆▅▃▂▁𝐍𝐄𝐖 𝐒𝐏𝐄𝐂𝐒 𝐀𝐍𝐃 𝐁𝐄𝐍𝐂𝐇𝐌𝐀𝐑𝐊𝐒 𝐀𝐒 𝐎𝐅 𝐌𝐀𝐑𝐂𝐇 𝟐𝟎𝟐𝟔▁▂▃▅▆▓▒░✩
+
+
+
+PC SPECS:
+
+- OS: WIN11 KERNELOS *(switched to as of January 2026)*
+
+- CPU: AMD Ryzen 5600x w/PBO -30 all cores, 5x scalar, -350 boost (max 4.35ghz)
+
+- RAM: 32GB TTG DDR4 3200mhz OC'd to 3600mhz
+
+- GPU: ASUS TUF GTX 1660 SUPER OC
+
+- STORAGE: KINSGSTON 500GB NVME + 2TB HDD
+
+- Monitor: MSI 149hz IPS
+
+- MOUSE: VGN Dragonfly F1
+
+- KEYBOARD: AKKO 9009 Retro 3068
+
+- CONTROLLER: Gamesir G7 PRO
+
+
+
+✩░▒▓▆▅▃▂▁𝐎𝐋𝐃 𝐒𝐏𝐄𝐂𝐒 𝐀𝐍𝐃 𝐁𝐄𝐍𝐂𝐇𝐌𝐀𝐑𝐊𝐒▁▂▃▅▆▓▒░✩
+
+
 
 PC SPECS:
 
